@@ -1,4 +1,4 @@
-The To-Do List Manager
+✅ The To-Do List Manager
 
 This project is a simple command‑line To‑Do List Manager that lets the user add tasks, view all current tasks, and remove tasks once they’re completed. 
 The program stores tasks inside a Python list and uses a loop to repeatedly show a menu with options to add, display, or delete tasks. When the user chooses 
