@@ -6,3 +6,5 @@ to add a task, the program takes input and appends it to the list. When viewing 
 one to remove. If the user selects the remove option, the program checks thatthe number is valid before deleting the task to prevent errors. The program continues 
 running until the user chooses to exit. This project demonstrates Python fundamentals such as lists, loops, conditionals, input handling, and basic data management 
 while creating a practical tool that mimics a simple task‑tracking application.
+
+Ihis is all about this code, Which is Managing/tracking things you need to do that you inserted.
