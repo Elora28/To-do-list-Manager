@@ -7,4 +7,4 @@ one to remove. If the user selects the remove option, the program checks thatthe
 running until the user chooses to exit. This project demonstrates Python fundamentals such as lists, loops, conditionals, input handling, and basic data management 
 while creating a practical tool that mimics a simple task‑tracking application.
 
-A simple program that lets users add, view, and remove tasks using an easy text‑based menu.
+A simple and efficient tool that helps users organize tasks by adding, viewing, and removing items through an easy interactive menu.
